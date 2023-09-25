@@ -14,4 +14,4 @@ In this project, we will be creating a portfolio from stocks in the Canadian sto
 
 # Data Description
 
-We will be extracting the list of companies that currently have their stocks up for trading from Wikipedia and log returns of stocks using Yahoo Finance API.
+I will be extracting the list of companies that currently have their stocks up for trading from Wikipedia and log returns of stocks using Yahoo Finance API.
